@@ -12,4 +12,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 ```javascript
 var myVar = "Hello, world!";
+## My Task List
+
+- [x] Complete GitHub Introduction Course
+- [ ] Add an image to my Markdown file
+- [ ] Write a code example
+- [ ] Create a task list
+- [ ] Merge my pull request
 
